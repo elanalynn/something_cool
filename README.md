@@ -1,3 +1,3 @@
 # something_cool
 
-## I too am something cool.
+## I too am something cool!
